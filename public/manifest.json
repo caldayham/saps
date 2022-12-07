@@ -1,0 +1,8 @@
+{
+  "short_name": "saps",
+  "name": "Simple Accounting Protocol Software",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
